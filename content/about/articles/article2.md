@@ -1,34 +1,9 @@
 ---
-title: "Article 2 – FizzBuzz"
-draft: false
+title: "Article 2: Why Small Projects Matter"
 ---
 
-# Problem Summary
-This article covers the classic “FizzBuzz” exercise.  
-The goal is simple: print the numbers from 1 to 100, but replace certain numbers with words.
+Small projects like this website help me learn faster than big, overwhelming assignments.
 
-- Numbers divisible by **3** → “Fizz”
-- Numbers divisible by **5** → “Buzz”
-- Numbers divisible by **both** → “FizzBuzz”
+When I build something small, I can focus on one idea at a time, test it, and fix mistakes without stressing. Most of the things I’ve learned about coding came from little experiments, not huge projects.
 
-# How I Approached It
-I knew I needed a basic loop that runs from 1 to 100.  
-Inside the loop, I checked the special cases first (like numbers divisible by both 3 and 5), because those need to be caught before the single checks. After that, it’s just simple `if` statements.
-
-The main idea was:  
-**check the biggest condition first, then work your way down.**
-
-# Key Code Snippet
-
-```js
-for (let i = 1; i <= 100; i++) {
-  if (i % 15 === 0) {
-    console.log("FizzBuzz");
-  } else if (i % 3 === 0) {
-    console.log("Fizz");
-  } else if (i % 5 === 0) {
-    console.log("Buzz");
-  } else {
-    console.log(i);
-  }
-}
+This website is another small step toward getting better at web development.

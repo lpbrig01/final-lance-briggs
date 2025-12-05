@@ -1,27 +1,9 @@
 ---
-title: "Article 1 – Reversing an Array"
-draft: false
+title: "Article 1: Balancing Track and Tech"
 ---
 
-# Problem Summary
-This article explains how I solved the “Reversing an Array” exercise from Eloquent JavaScript.  
-In my own words, the problem is basically asking me to write two functions:
+In this article I talk about how I balance being a student-athlete with learning tech and doing school projects like this website.
 
-1. One that **creates a new reversed array**  
-2. One that **reverses an array in place** without making a new one
+Most days I’m juggling classes, practice, lifting, homework, and trying to still have downtime. It's not perfect, but having both track and tech in my life motivates me and keeps me moving forward.
 
-# How I Approached It
-For the first part, I knew I just needed to loop through the array from the last index back to the beginning and push each value into a new array. This one is pretty straightforward because you're not changing the original.
-
-The second part (reversing the array in place) made me think a little more. I realized I had to swap the elements from the front and back, moving toward the center. Once the pointers meet in the middle, everything is reversed. No extra array needed.
-
-# Key Code Snippet
-
-```js
-function reverseArray(array) {
-  let result = [];
-  for (let i = array.length - 1; i >= 0; i--) {
-    result.push(array[i]);
-  }
-  return result;
-}
+The main point is that balancing these responsibilities teaches me discipline and time management, which carry over into my academic and professional work.

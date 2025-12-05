@@ -4,12 +4,8 @@ title: "About"
 
 # About Me
 
-My name is Lance Briggs. I’m an IT major and this website is part of a class assignment.
+My name is Lance Briggs, and I’m an IT major. This website is my final project for a web development class.
 
-The main goal of this project is to:
+I’m interested in tech, especially web development and cybersecurity. Projects like this help me get better with Git, GitHub, Hugo, and hosting websites on Netlify.
 
-- Get comfortable using Hugo
-- Put my homework write-ups somewhere public
-- Practice using GitHub and Netlify
-
-Outside of class I run track and like working on small tech projects.
+Outside of school I run track, lift, and like working on small coding projects when I get time. This site is a mix of school work and things I’m learning as I go.

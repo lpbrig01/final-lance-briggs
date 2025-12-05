@@ -3,16 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/blog/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/blog/post1-substantive/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/filler/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/blog/post3-lorem/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/blog/post4-lorem/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/blog/post5-lorem/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/substantive/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/blog/post2-substantive/</loc>
+    <lastmod>2025-12-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/about/articles/article1/</loc>
   </url><url>
     <loc>http://localhost:1313/about/articles/article2/</loc>
   </url><url>
+    <loc>http://localhost:1313/about/articles/enhancement/</loc>
+  </url><url>
+    <loc>http://localhost:1313/about/articles/ai-reflection/</loc>
+  </url><url>
     <loc>http://localhost:1313/about/articles/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

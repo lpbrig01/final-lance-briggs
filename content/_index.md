@@ -4,10 +4,14 @@ title: "Home"
 
 # Welcome
 
-This site is for my web development class.  
-I’m using Hugo with the Ananke theme to practice building a small site and deploying it.
+This site is my final project for my web development class.
 
-On this site you can:
+I built it using Hugo and the Ananke theme, and I’m hosting it on Netlify. Everything here is meant to show that I can structure a full website, write consistent pages, and explain the work I did.
 
-- Read a short “About” page about me
-- See write-ups for two Eloquent JavaScript homework problems on the **Articles** page
+On this site you’ll find:
+
+- A short About page  
+- Four Articles  
+- A Blog with several posts  
+
+Each section is part of the requirements for this assignment.
