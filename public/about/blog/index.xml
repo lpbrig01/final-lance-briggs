@@ -9,6 +9,13 @@
     <lastBuildDate>Wed, 03 Dec 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/about/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Almost Done</title>
+      <link>http://localhost:1313/about/blog/post5-lorem/</link>
+      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/blog/post5-lorem/</guid>
+      <description>&lt;p&gt;At this point I&amp;rsquo;m just wrapping up the last few pieces of the project. Most of the big work is finished, so now it’s just polishing things and making sure everything builds correctly. It’s nice seeing the final site come together.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Figuring Out Hugo</title>
       <link>http://localhost:1313/about/blog/post1-substantive/</link>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
@@ -16,25 +23,18 @@
       <description>&lt;p&gt;Learning Hugo was confusing at first, especially understanding the difference between &lt;code&gt;_index.md&lt;/code&gt; and regular markdown files. After breaking the site a few times, I finally got the structure down.&lt;/p&gt;&#xA;&lt;p&gt;This post is a reflection on what helped me understand the framework better.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Quick Test Post</title>
-      <link>http://localhost:1313/about/blog/post3-lorem/</link>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/blog/post3-lorem/</guid>
-      <description>&lt;p&gt;Just a short filler post for the assignment requirements.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Quick Test Post</title>
+      <title>Little Progress Note</title>
       <link>http://localhost:1313/about/blog/post4-lorem/</link>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/blog/post4-lorem/</guid>
-      <description>&lt;p&gt;Just a short filler post for the assignment requirements.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I spent today cleaning up small things on the site—fixing spacing, checking links, and making sure the menu actually matched the pages. Nothing major, but it helped the site look a lot more put together.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Quick Test Post</title>
-      <link>http://localhost:1313/about/blog/post5-lorem/</link>
+      <title>Quick Update</title>
+      <link>http://localhost:1313/about/blog/post3-lorem/</link>
       <pubDate>Wed, 03 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/blog/post5-lorem/</guid>
-      <description>&lt;p&gt;Just a short filler post for the assignment requirements.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/about/blog/post3-lorem/</guid>
+      <description>&lt;p&gt;Just a quick update while working on the project. Most of my time went into organizing the folders and making sure Hugo was pulling everything from the right section. It wasn’t complicated, but it definitely made me pay attention to the structure.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What I Learned in This Class</title>
